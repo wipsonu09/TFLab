@@ -1,7 +1,7 @@
 variable "myresource" {
   default = "satish"
 }
-variable "s3buck" {
+/*variable "s3buck" {
   description = "Enter name of bucket"
 }
 variable "iam" {
@@ -9,4 +9,4 @@ variable "iam" {
 }
 variable "usr-inp" {
   description = "enter number of instance"
-}
+}*/
