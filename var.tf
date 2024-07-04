@@ -1,5 +1,5 @@
 variable "myresource" {
-  default = "SATISH"
+  default = "satish"
 }
 variable "s3buck" {
   description = "Enter name of bucket"
